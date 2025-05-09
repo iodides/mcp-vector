@@ -3,12 +3,12 @@ from setuptools import setup, find_packages
 setup(
     name="mcp-vector",
     version="0.1.0",
-    author="MCP-Vector Team",
-    author_email="mcp-vector@example.com",
+    author="Your Name",
+    author_email="your.email@example.com",
     description="Vector database server for LLM with Model Context Protocol",
     long_description=open("README.md", encoding="utf-8").read(),
     long_description_content_type="text/markdown",
-    url="https://github.com/iodides/mcp-vector",
+    url="https://github.com/yourusername/mcp-vector",
     packages=find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",

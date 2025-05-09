@@ -1,0 +1,11 @@
+{
+    "servers": {
+        "mcp-vector": {
+            "command": "mcp-vector",
+            "args": [
+                "--config", "~/.config/claude-desktop/mcp-vector-config.json"
+            ],
+            "env": {}
+        }
+    }
+}
