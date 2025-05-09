@@ -1,0 +1,12 @@
+{
+    "model_name": "paraphrase-multilingual-MiniLM-L12-v2",
+    "db_path": "~/.mcp-vector/db_384",
+    "watch_folders": [
+        "/home/vscode/watch1"
+    ],
+    "supported_extensions": [
+        ".txt", ".md", ".py", ".js", ".java", ".c", ".cpp", ".cs",
+        ".html", ".css", ".json", ".xml", ".yml", ".yaml",
+        ".pdf", ".docx", ".xlsx", ".pptx"
+    ]
+}
